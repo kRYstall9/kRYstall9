@@ -24,6 +24,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: kRYstall9
           plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
           plugin_steam: yes
           plugin_steam_token: ${{secrets.STEAM_TOKEN}}
           plugin_steam_user: "76561198068142451"
